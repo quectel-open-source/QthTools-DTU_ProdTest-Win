@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/1.png</file>
+        <file>image/2.png</file>
+        <file>image/quectel.ico</file>
+        <file>image/help.chm</file>
+    </qresource>
+</RCC>
